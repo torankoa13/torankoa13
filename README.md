@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there 👋, Nice to meet you!.
+I am Khoa from Vietnam.
+I'm currently learning how to use GitHub.
+I want to become Saitama.
+Please send help in this: torandankoa@gmail.com.
 <!--
 **torankoa13/torankoa13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
